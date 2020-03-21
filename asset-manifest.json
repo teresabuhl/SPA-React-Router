@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SPA-React-Router/static/css/main.1ee1c13c.chunk.css",
-    "main.js": "/SPA-React-Router/static/js/main.e54e1fad.chunk.js",
-    "main.js.map": "/SPA-React-Router/static/js/main.e54e1fad.chunk.js.map",
+    "main.js": "/SPA-React-Router/static/js/main.1749cfd4.chunk.js",
+    "main.js.map": "/SPA-React-Router/static/js/main.1749cfd4.chunk.js.map",
     "runtime-main.js": "/SPA-React-Router/static/js/runtime-main.57ce6642.js",
     "runtime-main.js.map": "/SPA-React-Router/static/js/runtime-main.57ce6642.js.map",
     "static/js/2.319fd0d6.chunk.js": "/SPA-React-Router/static/js/2.319fd0d6.chunk.js",
     "static/js/2.319fd0d6.chunk.js.map": "/SPA-React-Router/static/js/2.319fd0d6.chunk.js.map",
     "index.html": "/SPA-React-Router/index.html",
-    "precache-manifest.6c5cda3c8b361ebf2f4c841f2679f06d.js": "/SPA-React-Router/precache-manifest.6c5cda3c8b361ebf2f4c841f2679f06d.js",
+    "precache-manifest.cb06fe05704fdef7b3653a8017cf9695.js": "/SPA-React-Router/precache-manifest.cb06fe05704fdef7b3653a8017cf9695.js",
     "service-worker.js": "/SPA-React-Router/service-worker.js",
     "static/css/main.1ee1c13c.chunk.css.map": "/SPA-React-Router/static/css/main.1ee1c13c.chunk.css.map",
     "static/js/2.319fd0d6.chunk.js.LICENSE.txt": "/SPA-React-Router/static/js/2.319fd0d6.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.57ce6642.js",
     "static/js/2.319fd0d6.chunk.js",
     "static/css/main.1ee1c13c.chunk.css",
-    "static/js/main.e54e1fad.chunk.js"
+    "static/js/main.1749cfd4.chunk.js"
   ]
 }

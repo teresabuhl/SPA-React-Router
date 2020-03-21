@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SPA-React-Router/static/css/main.1ee1c13c.chunk.css",
+    "main.js": "/SPA-React-Router/static/js/main.e54e1fad.chunk.js",
+    "main.js.map": "/SPA-React-Router/static/js/main.e54e1fad.chunk.js.map",
+    "runtime-main.js": "/SPA-React-Router/static/js/runtime-main.57ce6642.js",
+    "runtime-main.js.map": "/SPA-React-Router/static/js/runtime-main.57ce6642.js.map",
+    "static/js/2.319fd0d6.chunk.js": "/SPA-React-Router/static/js/2.319fd0d6.chunk.js",
+    "static/js/2.319fd0d6.chunk.js.map": "/SPA-React-Router/static/js/2.319fd0d6.chunk.js.map",
+    "index.html": "/SPA-React-Router/index.html",
+    "precache-manifest.6c5cda3c8b361ebf2f4c841f2679f06d.js": "/SPA-React-Router/precache-manifest.6c5cda3c8b361ebf2f4c841f2679f06d.js",
+    "service-worker.js": "/SPA-React-Router/service-worker.js",
+    "static/css/main.1ee1c13c.chunk.css.map": "/SPA-React-Router/static/css/main.1ee1c13c.chunk.css.map",
+    "static/js/2.319fd0d6.chunk.js.LICENSE.txt": "/SPA-React-Router/static/js/2.319fd0d6.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/SPA-React-Router/static/media/header1.cdf4646b.jpg",
+    "static/media/header2.jpg": "/SPA-React-Router/static/media/header2.c6ebaee1.jpg",
+    "static/media/header3.jpg": "/SPA-React-Router/static/media/header3.cf733a42.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57ce6642.js",
+    "static/js/2.319fd0d6.chunk.js",
+    "static/css/main.1ee1c13c.chunk.css",
+    "static/js/main.e54e1fad.chunk.js"
+  ]
+}
